@@ -24,3 +24,4 @@ Requires Node 18+.
 
 ## Placeholders to replace
 Phone, WhatsApp, email, address, hours, map embed, all images (hero, about, 9 gallery tiles), reviews, social links, About-section copy.
+# Manvi-Infratech
